@@ -7,18 +7,16 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-*https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing
+* [ Баг-репорт ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Чек-лист "номер-карты"
- https://docs.google.com/spreadsheets/d/177ATWG9bB5Gt9BylUY2E4p5k1SeGHFhYphCG4j48cu0/edit?usp=sharing
-* Баг-репорты
-https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing
+* [ Чек-лист "номер-карты" ](https://docs.google.com/spreadsheets/d/177ATWG9bB5Gt9BylUY2E4p5k1SeGHFhYphCG4j48cu0/edit?usp=sharing)
+* [ Баг-репорты ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
 
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные         [Генератора номеров кредитных карт и валидатора](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * 4024007170549447 - О.Р.- "Result is OK"
 * 4900136233791993463 - О.Р.- "Result is OK"
 * 6011077175006404 - О.Р.- "Result is OK"
