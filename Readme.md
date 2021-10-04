@@ -2,18 +2,23 @@
 
 ## Краткое описание
 
-01.10.2021 - 01.10.2021 было проведено 15 функциональных тестов приложения Credit Card Number Validator.
+01.10.2021 - 01.10.2021 было проведено 14 функциональных тестов приложения Credit Card Number Validator.
 
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [ Баг-репорт ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
+* [ Баг-репорт 1](https://github.com/UBCh/Credit-Card-Number-Validator/issues/3)
+* [ Баг-репорт 2](https://github.com/UBCh/Credit-Card-Number-Validator/issues/4)
+* [ Баг-репорт 3](https://github.com/UBCh/Credit-Card-Number-Validator/issues/5)
+* [ Баг-репорт 4](https://github.com/UBCh/Credit-Card-Number-Validator/issues/6)
+* [ Баг-репорт 5](https://github.com/UBCh/Credit-Card-Number-Validator/issues/7)
+
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * [ Чек-лист "номер-карты" ](https://docs.google.com/spreadsheets/d/177ATWG9bB5Gt9BylUY2E4p5k1SeGHFhYphCG4j48cu0/edit?usp=sharing)
-* [ Баг-репорты ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
+
 
 
 В качестве тестовых данных использовались данные         [Генератора номеров кредитных карт и валидатора](https://www.freeformatter.com/credit-card-number-generator-validator.html)
@@ -31,7 +36,7 @@
 * 379141864547620 - О.Р.- "Result is OK"
 * 5445537278466191 - О.Р.- "Result is OK"
 * 5038692398735513 - О.Р.- "Result is OK"
-* 2200123456789010 - О.Р.- "Result is OK"
+
 
 Тестирование производилось в следующем окружении:
 * OC Windows 10
